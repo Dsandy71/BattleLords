@@ -1,18 +1,11 @@
-## Getting Started
+## BattleLords
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+BattleLords is a game where the player will create an army and use it to fight the AI in the console.
 
-## Folder Structure
+## Description
 
-The workspace contains two folders by default, where:
+Players will be able to:
+- 'Progress': Progress through the ranks, creating larger armies and fighting larger foes!
+- 'Battle': Create an army and employ your strategy to effectively defeat your enemy!
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# First Github Project

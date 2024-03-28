@@ -27,5 +27,8 @@ public class Main
 
         System.out.println(p.toString());
 
+        PlayArea level1 = new PlayArea(10, 10);
+        System.out.println(level1.toString());
     }
+
 }
